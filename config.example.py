@@ -1,0 +1,4 @@
+WIFI_SSID = "YourWifiName"
+WIFI_PASSWORD = "YourPassword"
+COMPUTER_IP = "192.168.1.X"
+PORT = 5005

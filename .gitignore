@@ -1,0 +1,4 @@
+config.py
+telemetry.csv
+__pycache__/
+*.pyc
